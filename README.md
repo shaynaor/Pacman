@@ -14,17 +14,17 @@ The second option is automatic , an algorithm will control the player.
 In the src folder there is a Gui package, in that package there is a main class, run it.
 it will open the game.
 for more information on how to run the game and how to play it visit the wiki page:
-https://github.com/AlexVaisman/EX4_OOP/wiki/How-to-use
+https://github.com/shaynaor/Pacman/wiki/How-to-use
 
 # The algorithm used.
 A detailed explanation on how the automatic part of the game works can be found in the wiki.
-link: https://github.com/AlexVaisman/EX4_OOP/wiki/The-algorithm
+link: https://github.com/shaynaor/Pacman/wiki/The-algorithm
 
 # How the program works.
 A detailed explanation on the to program works can be found in the wiki:
-link: https://github.com/AlexVaisman/EX4_OOP/wiki/How-the-program-works
+link: https://github.com/shaynaor/Pacman/wiki/How-the-program-works
 
 # Algorithm results compared to other players.
 The results can be found in the wiki 
 
-link: https://github.com/AlexVaisman/EX4_OOP/wiki/Algorithm-results-vs-Other-players
+link: https://github.com/shaynaor/Pacman/wiki/Algorithm-results-vs-Other-players
